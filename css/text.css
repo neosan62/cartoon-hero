@@ -1,0 +1,27 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.color1{
+	color: navy;
+}
+
+.big.uppercase.color1{
+	font-family: sans-serif;
+}
+
+span{
+	color: royalblue;
+}
+
+h1 span{
+	color: greenyellow;
+}
