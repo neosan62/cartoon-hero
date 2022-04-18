@@ -107,20 +107,20 @@ footer a:active{
 
 
 /* scrollbar width */
-::-webkit-scrollbar{
+html::-webkit-scrollbar{
 	width: 10px;
 }
 /* scrollbar track */
-::-webkit-scrollbar-track{
+html::-webkit-scrollbar-track{
 	box-shadow: inset 0 0 5px grey;
 	border-radius: 10px;
 }
 /* scrollbar handle */
-::-webkit-scrollbar-thumb{
+html::-webkit-scrollbar-thumb{
 	background: orange;
 	border-radius: 10px;
 }
 /* scrollbar handle on hover */
-::-webkit-scrollbar-thumb:hover{
+html::-webkit-scrollbar-thumb:hover{
 	background: orangered;
 }
